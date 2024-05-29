@@ -6,7 +6,7 @@ Use Git to clone the project repository to your local machine:<br>
 git clone https://github.com/Aviitansh/3D-Chess-Unity<br><br>
 **2) Navigate to Project Directory:**<br>
 Open your command line interface and navigate to the project directory:<br>
-cd sorting-visualizer<br><br>
+cd 3D-Chess-Unity<br><br>
 **3) Open Unity:**<br>
 Launch Unity Hub and open the project by selecting the project directory you cloned in the previous step.<br><br>
 **4) Install Dependencies:**<br>
