@@ -3,7 +3,7 @@
 Now, you can follow these steps to set up and run the Sorting Visualizer project:<br><br>
 **1) Clone the Repository:**<br>
 Use Git to clone the project repository to your local machine:<br>
-git clone [https://github.com/your-username/sorting-visualizer.git](https://github.com/Aviitansh/3D-Chess-Unity)<br><br>
+git clone https://github.com/Aviitansh/3D-Chess-Unity<br><br>
 **2) Navigate to Project Directory:**<br>
 Open your command line interface and navigate to the project directory:<br>
 cd sorting-visualizer<br><br>
